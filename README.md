@@ -1,6 +1,21 @@
 # House Prices - Advanced Regression Project #
 *Ein Machine-Leaning-Projekt mit Feature Engineering, Modellvergleich, SHAP-Interpretation und Residuenanalyse.*
 
+Der in diesem Projekt verwendete Datensatz stammt aus der Kaggle‑Competition  
+**„House Prices – Advanced Regression Techniques“**.
+
+Der Datensatz kann hier heruntergeladen werden:  
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+Nach dem Download sollten die Dateien in folgendem Ordner abgelegt werden:
+
+data/
+train.csv
+test.csv
+
+
+Die Dateien werden aufgrund der Kaggle‑Lizenzbestimmungen **nicht** im Repository bereitgestellt.
+
 ### **1. Projektübersicht** ###
 
 Dieses Projekt analysiert den bekannten *Hose Prices-Datensatz* von Kaggle und entwickelt ein Regressionsmodell zur Vorhersage von Immobilienpreisen. Das Projekt umfasst:
